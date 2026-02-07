@@ -57,5 +57,8 @@ open up localhost:
 - GPT
 - Pinecone
 
+### Working Model
+<img width="519" height="416" alt="image" src="https://github.com/user-attachments/assets/89d292e5-6cd3-4f94-83d0-1c6afdfcba3b" />
+
 
 
